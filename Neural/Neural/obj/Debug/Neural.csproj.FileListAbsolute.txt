@@ -1,0 +1,6 @@
+C:\Users\Rohit\Documents\Visual Studio 2017\Projects\Neural\Neural\bin\Debug\Neural.exe.config
+C:\Users\Rohit\Documents\Visual Studio 2017\Projects\Neural\Neural\bin\Debug\Neural.exe
+C:\Users\Rohit\Documents\Visual Studio 2017\Projects\Neural\Neural\bin\Debug\Neural.pdb
+C:\Users\Rohit\Documents\Visual Studio 2017\Projects\Neural\Neural\obj\Debug\Neural.csprojResolveAssemblyReference.cache
+C:\Users\Rohit\Documents\Visual Studio 2017\Projects\Neural\Neural\obj\Debug\Neural.exe
+C:\Users\Rohit\Documents\Visual Studio 2017\Projects\Neural\Neural\obj\Debug\Neural.pdb
